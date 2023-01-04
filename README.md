@@ -1,7 +1,7 @@
-NoSQL nevű tárgyhoz készített beadandó munkám.
+NoSQL nevű tárgyhoz készített beadandó munkám
 ----------------------------------------------------------
 
-### Kreatív feladat
+#### Kreatív feladat
 Megvalósítás: Python, Redis
 
 *2021, Debreceni Egyetem Informatikai Kar*
